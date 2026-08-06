@@ -1,7 +1,4 @@
-## Hi there 👋
 
-<!--
-**ZoojooZ/ZoojooZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Privacy Policies
 
-ZoojooZ for Apps
--->
+This repository hosts publicly accessible privacy policy PDFs using GitHub Pages.
